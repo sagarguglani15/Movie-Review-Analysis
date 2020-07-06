@@ -1,5 +1,5 @@
 Heya!
-	In this projects, I have tried to collect some review/comments data from IMDB to analyze the sentiments of viewers for/against a 		movie.
+	In this projects, I have tried to collect some review/comments data from IMDB to analyze the sentiments of viewers for/against a movie.
 	
 IMPORTS:
 	1. GOOGLE SEARCH:    This helps to search some query on google search engine and results in the resulted links in desired order.
